@@ -1,7 +1,7 @@
 # Final_Project
 
 ## Description
-This code simulates particle collisions according the to the classical models proposed in Taylor's Classical Physics textbook. It is capable of accounting for multiple types of collisions.
+This code simulates a point projectile moving in a fixed, spherical potential.
 
 ## Instructions for Installation
 This program runs in Jupyter notebook. In order to get the software, please follow the instructions on their website.
