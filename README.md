@@ -12,7 +12,7 @@ Specifically, this program uses Anaconda3. Once installed, this notebook may be 
 All imports are part of the standard Jupyter installation, and have been included as an import block at the top of the notebook. Note, it imports the packages with prefixes (such as importing the numpy library as "np").
 
 ## How to Use Code
-(Placeholder)
+After the main code definition, there are cells with examples of utilization. Either replace these cells with your own desired parameters, or create new cells below. Note that previous cells must be run in order for the functions to work. As an additional note, the k-value of the Heaviside must be manually adjusted near the top of the code.
 
 ## Contact Information
-(Placeholder)
+My Github Account: https://github.com/Ashardalon125
