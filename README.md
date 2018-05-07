@@ -16,3 +16,10 @@ After the main code definition, there are cells with examples of utilization. Ei
 
 ## Contact Information
 My Github Account: https://github.com/Ashardalon125
+
+## Resources
+Numpy Documentation: https://docs.scipy.org/doc/
+
+matplotlib Documentation: https://matplotlib.org/contents.html
+
+Anaconda Documentation: https://docs.anaconda.com/
